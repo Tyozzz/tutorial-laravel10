@@ -15,6 +15,7 @@
             <div class="col-md-12">
                 <div>
                     <h3 class="text-center my-4">Tutorial Laravel 10 untuk Pemula</h3>
+                    <h6 class="text-center my-4">Satrio Nugroho</h6>
                     <h5 class="text-center"><a href="https://santrikoding.com">www.santrikoding.com</a></h5>         
                     <hr>
                 </div>
